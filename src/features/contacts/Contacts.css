@@ -1,0 +1,8 @@
+.contact-item {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+    border: 2px solid;
+    padding: 10px;
+    margin: 10px;
+}
